@@ -1,8 +1,17 @@
-# React + Vite
+### Project: Simple Chat Bot in React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##### Description:
+This project is a simple web-based chat bot built with React.
+The user can send messages, and the bot replies with a set of predefined phrases.
+The interface is minimalistic and intuitive — consisting of a chat window and a message input field.
 
-Currently, two official plugins are available:
+##### Features:
+- Sending and displaying messages in real time (without page reload).
+- Bot responses using a collection of predefined phrases.
+- Simple conversation simulation (bot replies with a short delay).
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##### Technologies:
+React (hooks, useState, useEffect)
+
+##### Project Goal:
+To demonstrate the basic principles of state management, event handling, and dynamic rendering in React. This project serves as a beginner-friendly learning example for front-end developers.
