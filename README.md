@@ -1,5 +1,8 @@
 ### Project: Simple Chat Bot in React
 
+<img width="672" height="426" alt="image" src="https://github.com/user-attachments/assets/b0fb8d7a-2b3e-45c4-80c6-589a0727f804" />
+
+
 ##### Description:
 This project is a simple web-based chat bot built with React.
 The user can send messages, and the bot replies with a set of predefined phrases.
